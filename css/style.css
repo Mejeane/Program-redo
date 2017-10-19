@@ -1,0 +1,87 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Muli', sans-serif;
+}
+
+body {
+	background-color: whitesmoke;
+}
+
+/* Style for Login Form */
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+
+form {
+	display: block;
+	background-color: #fcbde1;
+	width: 25%;
+	height: 500px;
+	margin-left: 35%;
+	text-align: center;
+}
+
+label {
+	display: block;
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+input {
+	display: block;
+    margin: 0 auto;
+	width: 200px;
+	height: 20px;
+	margin-bottom: 10px;
+}
+
+.login-btn {
+	margin: 0 auto;
+	display: block;
+	margin-top: 20px;
+	width: 100px;
+	height: 40px;
+	background: #e057a5;
+	margin-bottom: 20px;
+	font-size: 18px;
+}
+
+.login-btn:hover {
+	color: #fcbde1;
+}
+
+.forgot-password {
+	color: #e057a5;
+	padding-top: 20px;
+}
+
+/* Style for Date */
+
+button {
+    background-color: #fcbde1;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    position: absolute;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
